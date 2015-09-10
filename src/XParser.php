@@ -1,5 +1,4 @@
 <?php namespace Jdecano;
-use DeviceDetector\DeviceDetector;
 use UAParser\Parser;
 class XParser {
 	/**
